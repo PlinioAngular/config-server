@@ -3,5 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/dfernava/config-server  application:    name: config-server
+          uri: https://github.com/PlinioAngular/config-server.git  application:    name: config-server
 server:  port: 8888
